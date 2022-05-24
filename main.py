@@ -1,7 +1,7 @@
 from calculator import Calculator
 
 if __name__ == '__main__':
-    print(f"Versión {Calculator.version} de la calculadora.")
+    print(f"Versión *** {Calculator.version} de la calculadora.")
 
     op = input("¿Qué operación desea realizar? (suma o resta): ")
 
